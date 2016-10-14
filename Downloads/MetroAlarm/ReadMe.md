@@ -1,3 +1,3 @@
 #Metro Alarm
 
-One of my leasure projects.
+Download and enjoy your no-worries time in the Metro.
